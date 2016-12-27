@@ -34,10 +34,10 @@ function dlPage($url) {
  * @param string $url 動画URL
  * @return array $thumbnail_urls 取得したサムネイルURL
  */
-function getThumbnailUrls($url) {
+function getThumbnailUrls(http://jp.pornhub.com/view_video.php?viewkey=ph5670c19d65fa3) {
     // 取得したサムネイルURLを格納する配列
     $thumbnail_urls = array();
-
+                            
     // HTMLを取得
     try {
         $html = dlPage($url);
